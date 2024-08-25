@@ -1,4 +1,5 @@
 ## Taking Input Text
-![Screenshot 2024-08-25 205604](https://github.com/user-attachments/assets/b5ecc113-ef33-4008-ae07-26dbdf9797b9)
+![Screenshot 2024-08-25 205604](https://github.com/user-attachments/assets/fccb0ad1-5c6e-409a-9fe8-48bdb5b85c8a)
+
 ## Difference
-![Screenshot 2024-08-25 205754](https://github.com/user-attachments/assets/08d7f960-34bf-46ec-9753-f884461eac76)
+![Screenshot 2024-08-25 205754](https://github.com/user-attachments/assets/82f60d16-f33e-4aac-8fdd-6b1f38c460fe)
